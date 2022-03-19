@@ -35,12 +35,6 @@ This is an opensource blockchain prototype project that aims to solve some block
 - cd base-blockchain/frontend 
 - npm start : this will open the reactjs app in your local browser. Test and improve it.
 
-
-### This project is an improvement of this article https://medium.com/swlh/is-it-hard-to-build-a-blockchain-from-scratch-2662e9b873b7
-
-You can read it for basic understanding.
-
-
 ## Any contribution will be appreciated
 
 Fork the repo, pull requests to contribute to this project.
